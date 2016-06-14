@@ -1,0 +1,10 @@
+[0613/204622:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0613/204622:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0613/204622:INFO:CONSOLE(1)] "ReferenceError: EdgeDOM is not defined
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:13)
+    at <anonymous>:0:53", source:  (1)
+[0613/204623:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0613/204623:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0613/204623:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot call method 'appendChild' of undefined", source: v8/appCss (1)
+[0613/204623:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
+[0613/204623:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
